@@ -31,7 +31,7 @@
 	/* Safari */
 	display: flex;
 	flex-wrap: wrap;
-	border: 1px solid #00000026;
+	border: 1.5px solid #00000026;
 	/*box-shadow: 0 2px 3px #0000000f;*/
 	border-radius: 24px;
 	background-color: #fff
