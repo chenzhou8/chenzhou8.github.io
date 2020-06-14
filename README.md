@@ -19,18 +19,6 @@
 
 你无需部署源码，本项目旨在为[hao.zdsr.cn](https://hao.zdsr.cn)开发，将此页面设为浏览器主页即可。
 
-demo：
-国内[hao.zdsr.cn](https://hao.zdsr.cn)(项目主页，特性通常优于开源版)；
-国外[www.cosysoso.com](https://www.cosysoso.com/)(GitHub同步镜像站)。
-
-加入讨论：如果您有更好的建议，或者对项目感兴趣，欢迎加入QQ群(1065753778)。
-
-# 展示
-### 电脑端示例
-
-![](https://ae01.alicdn.com/kf/H47053bab28a84e09bc5293a6d9548759D.jpg)
-![](https://ae01.alicdn.com/kf/H46d7e01306d14f0aa3d8be17272fc168j.jpg)
-![](https://ae01.alicdn.com/kf/Hbf82cefdf96a4e348cff3da506696a54N.jpg)
 
 
 # 特性
@@ -46,28 +34,3 @@ demo：
 - [ ] 自动获取网站icon
 
 
-# 版本更新
-
-  page 1.4.2. 样式微调，修复bug，新增搜索按钮
-
-  page 1.4. 重写部分js，采用读取json的方式加载链接；改进搜索引擎图标
-
-  page 1.3.1. 调整搜索框样式(参照Google)，优化部分细节
-
-  page 1.3. 修复css细节，改进字体，静态文件新增min版本
-
-  page 1.1. 优化页面性能，添加部分导航链接
-
-  page 1.0. 初次推送
-
-# 版权说明
-
-请勿删除foot下的版权信息，否则闭源
-
-从 page 1.4. 开始，将对部分代码进行混淆加密，请不要尝试删除版权信息
-
-该项目签署了Apache License 2.0授权许可，详情请参阅 LICENSE
-
-# 鸣谢
-
-- [5iux/sou](https://github.com/5iux/sou)  [![GitHub stars](https://img.shields.io/github/stars/5iux/sou?style=social)](https://github.com/5iux/sou/stargazers)
