@@ -29,18 +29,18 @@
 	box-shadow: 0 1px 6px 0 #20212447
 }
 #search-icon {
-	display: block;
-	position: absolute;
-	left: 0;
-	top: 7.5px;
-	width: 35px;
-	height: 35px;
-	overflow: hidden;
-	text-align: center;
-	line-height: 35px;
-	font-size: 30px;
-	color: #2196f3;
-	cursor: pointer
+    display: block;
+    position: absolute;
+    left: 5px;
+    top: 8.5px;
+    width: 30px;
+    height: 35px;
+    overflow: hidden;
+    text-align: center;
+    line-height: 35px;
+    font-size: 30px;
+    color: #2196f3;
+    cursor: pointer
 }
 .search-input {
 	box-sizing: border-box;
