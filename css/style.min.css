@@ -13,6 +13,9 @@ body, html {
 	overflow: hidden;
 	background: #fff
 }
+body{
+	background: url(../img/bg.gif);
+}
 html {
 	font-family: roboto-medium, PingFangSC-Regular, 'Microsoft YaHei UI', 'Microsoft YaHei', helvetica, sans-serif;
 	font-weight: 400;
